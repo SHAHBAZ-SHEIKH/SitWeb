@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+h1{
+    font-family: "Roboto", serif;
+    font-size: 50px;
+    font-weight: large;
+    
+}
+
+
+
+p{
+    text-transform: underline;
+    font-family: "Roboto", serif;
+    font-size: 30px;
+    font-weight: large;
+    line-height: 30px;
+    letter-spacing: 10px;
+    
+    
+}
+
+.btn{
+    text-decoration: none;
+    text-align: center;
+    text-shadow: 2px 2px 5px yellow;
+    background-color: red;
+    font-size: 40px ;
+    
+}
+
